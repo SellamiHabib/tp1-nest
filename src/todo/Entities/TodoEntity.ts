@@ -1,4 +1,4 @@
-import DateEntity from "src/common/entities/DateEntity";
+import DateEntity from "../../common/entities/DateEntity";
 import { Column, Entity, PrimaryGeneratedColumn } from "typeorm";
 import { TodoStatusEnum } from '../enums/todoStatusEnum';
 
